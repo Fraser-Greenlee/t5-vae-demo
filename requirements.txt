@@ -1,0 +1,4 @@
+streamlit
+wheel
+requests
+watchdog
