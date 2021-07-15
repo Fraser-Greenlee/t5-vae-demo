@@ -1,0 +1,3 @@
+[submodule "t5_vae_flax"]
+	path = t5_vae_flax
+	url = https://github.com/Fraser-Greenlee/t5-vae-flax.git
