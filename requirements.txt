@@ -1,4 +1,8 @@
 streamlit
+watchdog
+
 wheel
 requests
-watchdog
+flax
+
+-e git+https://github.com/huggingface/transformers.git#egg=transformers[flax]
